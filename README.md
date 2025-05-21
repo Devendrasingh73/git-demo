@@ -1,4 +1,4 @@
 # git-demo
 This is my first Git repository.
 <br>
-Author _ Devendra singh
+Author _ Devendra (singh)
